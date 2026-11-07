@@ -1,0 +1,14 @@
+bin
+gen
+launchpad-*.tar.gz
+local.properties
+*~
+*.sublime-workspace
+
+# Gradle / Android Studio
+.gradle/
+build/
+.cxx/
+.idea/
+*.iml
+.DS_Store
